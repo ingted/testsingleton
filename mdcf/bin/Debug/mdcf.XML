@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>mdcf</name></assembly>
+<members>
+<member name="T:Sessionrapper.FileCommand">
+<summary>
+ Domain
+</summary>
+</member>
+<member name="T:Sessionrapper.Event">
+<summary>
+ Domain
+</summary>
+</member>
+<member name="M:Sessionrapper.aggregateRootActor``2(Akkling.Actors.Actor{``0},Sessionrapper.FileCommand)">
+<summary>
+ Actors
+</summary>
+</member>
+</members>
+</doc>

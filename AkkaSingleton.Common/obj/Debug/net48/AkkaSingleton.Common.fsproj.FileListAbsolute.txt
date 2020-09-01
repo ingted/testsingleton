@@ -1,0 +1,88 @@
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.AssemblyInfoInputs.cache
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.AssemblyInfo.fs
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\AkkaSingleton.Common.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\AkkaSingleton.Common.pdb
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Akka.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Akka.FSharp.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\FSharp.Core.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\FSharp.Quotations.Evaluator.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\FsPickler.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.Abstractions.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.Binder.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.CommandLine.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Primitives.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\Newtonsoft.Json.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Buffers.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Collections.Immutable.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Memory.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Numerics.Vectors.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Security.AccessControl.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Security.Permissions.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\System.Security.Principal.Windows.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\TypeShape.CSharp.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\TypeShape.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\cs\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\de\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\es\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\fr\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\it\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\ja\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\ko\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\pl\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\pt-BR\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\ru\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\tr\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\zh-Hans\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\net48\zh-Hant\FSharp.Core.resources.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.fsproj.CopyComplete
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.pdb
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.fsprojAssemblyReference.cache
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\AkkaSingleton.Common.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\AkkaSingleton.Common.pdb
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Akka.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Akka.FSharp.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\FSharp.Core.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\FSharp.Quotations.Evaluator.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\FsPickler.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.Binder.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Microsoft.Extensions.Primitives.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\Newtonsoft.Json.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Buffers.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Collections.Immutable.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Memory.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Security.AccessControl.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Security.Permissions.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\TypeShape.CSharp.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\TypeShape.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\cs\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\de\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\es\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\fr\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\it\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\ja\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\ko\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\pl\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\pt-BR\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\ru\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\tr\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\zh-Hans\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\bin\Debug\net48\zh-Hant\FSharp.Core.resources.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.fsprojAssemblyReference.cache
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.AssemblyInfoInputs.cache
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.AssemblyInfo.fs
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.fsproj.CopyComplete
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.dll
+C:\onedrive\OneDrive - shl-group.com\codes\20200901\mdc\AkkaSingleton.Common\obj\Debug\net48\AkkaSingleton.Common.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\anibal.yeh\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.6.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\anibal.yeh\.nuget\packages\fsharp.core\4.7.1</PkgFSharp_Core>
+    <PkgTypeShape Condition=" '$(PkgTypeShape)' == '' ">C:\Users\anibal.yeh\.nuget\packages\typeshape\8.0.1</PkgTypeShape>
+    <PkgMicrosoft_Extensions_Configuration Condition=" '$(PkgMicrosoft_Extensions_Configuration)' == '' ">C:\Users\anibal.yeh\.nuget\packages\microsoft.extensions.configuration\3.1.2</PkgMicrosoft_Extensions_Configuration>
+    <PkgMicrosoft_Extensions_Configuration_EnvironmentVariables Condition=" '$(PkgMicrosoft_Extensions_Configuration_EnvironmentVariables)' == '' ">C:\Users\anibal.yeh\.nuget\packages\microsoft.extensions.configuration.environmentvariables\3.1.2</PkgMicrosoft_Extensions_Configuration_EnvironmentVariables>
+    <PkgMicrosoft_Extensions_Configuration_CommandLine Condition=" '$(PkgMicrosoft_Extensions_Configuration_CommandLine)' == '' ">C:\Users\anibal.yeh\.nuget\packages\microsoft.extensions.configuration.commandline\3.1.2</PkgMicrosoft_Extensions_Configuration_CommandLine>
+    <PkgMicrosoft_Extensions_Configuration_Binder Condition=" '$(PkgMicrosoft_Extensions_Configuration_Binder)' == '' ">C:\Users\anibal.yeh\.nuget\packages\microsoft.extensions.configuration.binder\3.1.2</PkgMicrosoft_Extensions_Configuration_Binder>
+    <PkgAkka_FSharp Condition=" '$(PkgAkka_FSharp)' == '' ">C:\Users\anibal.yeh\.nuget\packages\akka.fsharp\1.4.3</PkgAkka_FSharp>
+  </PropertyGroup>
+</Project>

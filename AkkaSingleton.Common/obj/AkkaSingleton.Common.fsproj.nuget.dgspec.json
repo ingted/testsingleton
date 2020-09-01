@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\onedrive\\OneDrive - shl-group.com\\codes\\20200901\\mdc - Copy\\AkkaSingleton.Common\\AkkaSingleton.Common.fsproj": {}
+  },
+  "projects": {
+    "C:\\onedrive\\OneDrive - shl-group.com\\codes\\20200901\\mdc - Copy\\AkkaSingleton.Common\\AkkaSingleton.Common.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\onedrive\\OneDrive - shl-group.com\\codes\\20200901\\mdc - Copy\\AkkaSingleton.Common\\AkkaSingleton.Common.fsproj",
+        "projectName": "AkkaSingleton.Common",
+        "projectPath": "C:\\onedrive\\OneDrive - shl-group.com\\codes\\20200901\\mdc - Copy\\AkkaSingleton.Common\\AkkaSingleton.Common.fsproj",
+        "packagesPath": "C:\\Users\\anibal.yeh\\.nuget\\packages\\",
+        "outputPath": "C:\\onedrive\\OneDrive - shl-group.com\\codes\\20200901\\mdc - Copy\\AkkaSingleton.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\anibal.yeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Akka.FSharp": {
+              "target": "Package",
+              "version": "[1.4.3, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.1, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.2, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[3.1.2, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Extensions.Configuration.CommandLine": {
+              "target": "Package",
+              "version": "[3.1.2, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[3.1.2, )",
+              "generatePathProperty": true
+            },
+            "TypeShape": {
+              "target": "Package",
+              "version": "[8.0.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

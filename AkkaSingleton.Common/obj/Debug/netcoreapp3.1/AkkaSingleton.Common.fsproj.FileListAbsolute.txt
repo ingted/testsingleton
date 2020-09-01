@@ -1,0 +1,7 @@
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\netcoreapp3.1\AkkaSingleton.Common.deps.json
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\netcoreapp3.1\AkkaSingleton.Common.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\bin\Debug\netcoreapp3.1\AkkaSingleton.Common.pdb
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\netcoreapp3.1\AkkaSingleton.Common.AssemblyInfoInputs.cache
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\netcoreapp3.1\AkkaSingleton.Common.AssemblyInfo.fs
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\netcoreapp3.1\AkkaSingleton.Common.dll
+Z:\SharFTrade\akka-singleton\AkkaSingleton.Common\obj\Debug\netcoreapp3.1\AkkaSingleton.Common.pdb
